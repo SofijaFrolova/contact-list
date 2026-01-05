@@ -1,4 +1,4 @@
-package com.todo.todo_app;
+package com.example.contact_list;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

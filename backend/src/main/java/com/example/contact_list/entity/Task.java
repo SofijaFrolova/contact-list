@@ -1,4 +1,4 @@
-package com.todo.todo_app.models;
+package com.example.contact_list.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

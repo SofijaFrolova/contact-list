@@ -1,6 +1,6 @@
-package com.todo.todo_app.repository;
+package com.example.contact_list.repository;
 
-import com.todo.todo_app.models.Task;
+import com.example.contact_list.entity.Task;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface TaskRepository extends JpaRepository<Task, Long> {

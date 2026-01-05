@@ -1,7 +1,7 @@
-package com.todo.todo_app.services;
+package com.example.contact_list.services;
 
-import com.todo.todo_app.models.Task;
-import com.todo.todo_app.repository.TaskRepository;
+import com.example.contact_list.entity.Task;
+import com.example.contact_list.repository.TaskRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

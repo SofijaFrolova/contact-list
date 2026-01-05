@@ -1,8 +1,8 @@
-package com.todo.todo_app.controller;
+package com.example.contact_list.controller;
 
-import com.todo.todo_app.models.Task;
-import com.todo.todo_app.repository.TaskRepository;
-import com.todo.todo_app.services.TaskService;
+import com.example.contact_list.entity.Task;
+import com.example.contact_list.repository.TaskRepository;
+import com.example.contact_list.services.TaskService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
