@@ -1,0 +1,4 @@
+# Set env variables
+DB_URL==jdbc:mysql://localhost:3306/contact_list
+DB_USERNAME=root
+DB_PASSWORD=pass123
